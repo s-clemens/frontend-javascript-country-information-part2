@@ -1,0 +1,15 @@
+{
+  "name": "frontend-javascript-country-information-continued",
+  "version": "1.0.0",
+  "description": "## Inleiding Jouw Country Information App was een grote hit bij Constantijn, dus hij heeft gevraagd of je hem wil uitbreiden met wat extra functionaliteit!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
