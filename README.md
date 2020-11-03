@@ -36,4 +36,4 @@ _Tip:_ gebruik de Color Picker extensie om erachter te komen welke kleuren er op
 Zorg er ook voor dat als de gebruiker op een land klikt waarbij deze informatie al zichtbaar is, de informatie weer verdwijnt.
 _Tip_: je hebt een unieke ID nodig voor elk tekst-element met populatie-informatie
 
-7. Zorg ervoor dat de styling aansluit bij de styling op de home-pagina
+7. **Bonus:** Zorg ervoor dat de styling aansluit bij de styling op de home-pagina
