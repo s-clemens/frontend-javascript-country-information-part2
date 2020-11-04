@@ -1,0 +1,91 @@
+body{
+    background-color: white;
+
+}
+
+h1{
+    font-family: Arial,  serif;
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+#main-image{
+    margin: 0 auto;
+    width: 80%;
+}
+
+#country-container{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+
+    background-color: rgba(250,250,250,0.39);
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    width: 90vw;
+    max-width: 90vw;
+    height: 200vh;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+#country-container li{
+    width: auto;
+    display: inline-block;
+    list-style-type: none;
+}
+
+li span{
+    font-family: Arial, serif;
+    font-size: 0.8em;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.country{
+
+}
+
+/*flag attributes*/
+.flag{
+    width: 20px;
+}
+
+/*Country color codes*/
+.black{
+    color: black;
+}
+
+.purple{
+    color: rgba(158,88,185,1);
+}
+
+.yellow{
+    color: rgba(248,211,67,1);
+}
+
+.red{
+    color: rgba(195,83,93,1);
+}
+
+.blue{
+    color: rgba(94,119,192,1);
+}
+
+.green{
+    color: rgba(124,194,136,1);
+}
+
+.population-class{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-family: Arial, serif;
+    font-size: 0.7em;
+}
